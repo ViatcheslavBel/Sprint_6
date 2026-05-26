@@ -1,0 +1,25 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven / build
+target/
+build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports
+allure-results/
+allure-report/
+
+# Drivers
+chromedriver.exe
+geckodriver.exe
+
+# Env
+.env
